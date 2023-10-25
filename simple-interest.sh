@@ -4,9 +4,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: Patrice Mauny
    # Additional Authors:
-   # <your GitHub username>
+   # elasticlabs
 
    # Input:
    # p, principal amount
